@@ -6,3 +6,4 @@
       
 console.log(isCheck || (isClose || isGood)) */
 
+let a = 1;
